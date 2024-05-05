@@ -1,0 +1,109 @@
+{"Jerry Allen":"['San José State University','United States of America','Science and Engineering','Junior']"}
+{"Wanda Moore":"['San José State University','United States of America','Science and Engineering','Senior']"}
+{"Venessa Pham":"['San José State University','Vietnam','Science and Engineering','Senior']"}
+{"Jerry Darrell":"['San José State University','Myanmar','Mathematics','PhD']"}
+{"Jeff Toby":"['San Francisco State University','Myanmar','Sciences and Engineering','Junior']"}
+{"Julie Davis":"['California State University Channel Islands', 'Guatemala', 'Fine and Applied Arts', 'Senior']"}
+{"Martha Pruitt":"['California State University Bakersfield', 'Romania', 'Law and Legal Studies', 'Freshman']"}
+{"Joshua Wagner MD":"['San Diego State University','Yemen', 'Education and Teaching', 'Sophomore']"}
+{"Elizabeth Cole":"['California State University San Marcos','Solomon Islands', 'Education and Teaching', 'PhD']"}
+{"James Webb":"['California State University Los Angeles','Peru', 'Fine and Applied Arts', 'Senior']"}
+{"Jacqueline Stewart": "['California State University San Bernardino', 'Andorra', 'Education and Teaching', 'Junior']"}
+{"Rickey Reed": "['California State University Monterey Bay', 'Slovenia', 'Social Sciences', 'PhD']"}
+{"Patrick Stanley": "['Sonoma State University', 'Pakistan', 'Communications and Media', 'Senior']"}
+{"Kristy Conley": "['California State University San Bernardino', 'Somalia', 'Natural Sciences', 'Freshman']"}
+{"Travis Wallace": "['California State University Maritime Academy', 'Botswana', 'Fine and Applied Arts', 'PhD']"}
+{"Erica Ortiz": "['California State University Stanislaus', 'Mauritania', 'Arts and Humanities', 'Junior']"}
+{"Jennifer Richard": "['California State University Maritime Academy', 'Somalia', 'Business and Economics', 'Senior']"}
+{"Margaret Kim": "['California State University Northridge', 'Lebanon', 'Sciences and Engineering', 'Freshman']"}
+{"Lindsay Martinez": "['California State University Los Angeles', 'Chad', 'Business and Economics', 'Junior']"}
+{"Melissa Spencer": "['California State University Long Beach', 'Jamaica', 'Sciences and Engineering', 'Senior']"}
+{"Steven Hernandez": "['California State University Sacramento', 'Chile', 'Natural Sciences', 'Freshman']"}
+{"Angela Alvarez": "['California State University San Marcos', 'Mali', 'Law and Legal Studies', 'Junior']"}
+{"Gregory Moore": "['California State University Fresno', 'Liberia', 'Sciences and Engineering', 'Freshman']"}
+{"Kenneth Cruz": "['California Polytechnic State University Humboldt', 'Croatia', 'Social Sciences', 'Freshman']"}
+{"Christopher Patterson": "['California State University Channel Islands', 'Trinidad & Tobago', 'Arts and Humanities', 'Freshman']"}
+{"Robin Navarro": "['California State University Bakersfield', 'Antigua & Deps', 'Social Sciences', 'Sophomore']"}
+{"Barbara Sanchez": "['Sonoma State University', 'Suriname', 'Social Sciences', 'Junior']"}
+{"Marcus Walsh": "['California State University Maritime Academy', 'Yemen', 'Sciences and Engineering', 'Sophomore']"}
+{"Tracy Leon": "['California State University Dominguez Hills', 'Sierra Leone', 'Education and Teaching', 'Sophomore']"}
+{"Jamie Moore": "['California State University Stanislaus', 'Nauru', 'Business and Economics', 'PhD']"}
+{"Courtney Garcia": "['California Polytechnic State University Pomona', 'Romania', 'Business and Economics', 'Freshman']"}
+{"Ann Brown": "['California State University Long Beach', 'Chile', 'Social Sciences', 'Freshman']"}
+{"Ryan Sweeney": "['California State University Maritime Academy', 'Zambia', 'Fine and Applied Arts', 'Freshman']"}
+{"Tammy Landry": "['California State University Sacramento', 'Guyana', 'Arts and Humanities', 'Senior']"}
+{"Brandon Craig": "['California State University Maritime Academy', 'Dominican Republic', 'Education and Teaching', 'Sophomore']"}
+{"Felicia Williams": "['San Francisco State University', 'Congo', 'Social Sciences', 'Freshman']"}
+{"Nathan Ferguson": "['California State University Sacramento', 'India', 'Health Sciences', 'Sophomore']"}
+{"Stephen Huber": "['California State University Los Angeles', 'Bolivia', 'Education and Teaching', 'Junior']"}
+{"Robert Flores": "['San Diego State University', 'United States of America', 'Education and Teaching', 'Freshman']"}
+{"Casey Brown": "['California State University Monterey Bay', 'Saudi Arabia', 'Social Sciences', 'PhD']"}
+{"Jennifer Harris": "['California State University Fresno', 'Bangladesh', 'Fine and Applied Arts', 'Freshman']"}
+{"Amber Clark": "['California State University Long Beach', 'Bhutan', 'Education and Teaching', 'Junior']"}
+{"Christopher Graham": "['California State University Bakersfield', 'Venezuela', 'Business and Economics', 'Freshman']"}
+{"Regina Larsen": "['California State University Los Angeles', 'Gabon', 'Health Sciences', 'Senior']"}
+{"Michael Rodriguez": "['California State University East Bay', 'Nicaragua', 'Communications and Media', 'PhD']"}
+{"Shawn Ramirez": "['California Polytechnic State University Humboldt', 'Netherlands', 'Business and Economics', 'Junior']"}
+{"Bill Morgan": "['California State University Northridge', 'Guinea', 'Social Sciences', 'PhD']"}
+{"Scott Young": "['California State University Bakersfield', 'Ethiopia', 'Communications and Media', 'PhD']"}
+{"Casey Walls": "['California State University Long Beach', 'Czech Republic', 'Health Sciences', 'PhD']"}
+{"Sherri Donaldson": "['California State University Fresno', 'Egypt', 'Law and Legal Studies', 'PhD']"}
+{"Cheryl Barrera": "['California State University Fullerton', 'Romania', 'Business and Economics', 'Freshman']"}
+{"Nancy Luna": "['California Polytechnic State University Pomona', 'Korea North', 'Communications and Media', 'PhD']"}
+{"Emily Acevedo": "['California State University Northridge', 'Greece', 'Health Sciences', 'Senior']"}
+{"Jennifer Gross": "['California State University Monterey Bay', 'East Timor', 'Law and Legal Studies', 'Freshman']"}
+{"Mr. Anthony Daniel Jr.": "['California State University Fullerton', 'Ukraine', 'Health Sciences', 'Junior']"}
+{"Jack Robinson": "['California State University Northridge', 'Samoa', 'Law and Legal Studies', 'Sophomore']"}
+{"Karina Miller": "['California State University San Bernardino', 'Portugal', 'Business and Economics', 'PhD']"}
+{"Amanda Barrett": "['California State University Fullerton', 'Venezuela', 'Natural Sciences', 'Junior']"}
+{"Angela Montes": "['California State University San Bernardino', 'Oman', 'Health Sciences', 'Sophomore']"}
+{"Carrie Aguilar": "['California Polytechnic State University Humboldt', 'Zambia', 'Business and Economics', 'Freshman']"}
+{"Lisa Flores": "['California State University Fresno', 'Tanzania', 'Education and Teaching', 'Sophomore']"}
+{"Thomas Lawrence": "['California Polytechnic State University Pomona', 'Poland', 'Law and Legal Studies', 'Freshman']"}
+{"Justin Avila": "['California State University Chico', 'Indonesia', 'Health Sciences', 'Senior']"}
+{"Angela Lopez": "['California State University San Bernardino', 'St Lucia', 'Law and Legal Studies', 'Junior']"}
+{"Brent Walker": "['San José State University', 'Saudi Arabia', 'Sciences and Engineering', 'Junior']"}
+{"Ronald Roberts": "['California State University Maritime Academy', 'Germany', 'Natural Sciences', 'Freshman']"}
+{"Diamond Crawford": "['California State University Monterey Bay', 'Georgia', 'Health Sciences', 'Junior']"}
+{"Cheryl Johnson": "['Sonoma State University', 'Costa Rica', 'Business and Economics', 'Freshman']"}
+{"Rita Farley": "['California State University Northridge', 'Cambodia', 'Arts and Humanities', 'Freshman']"}
+{"Carlos Hanson": "['San Diego State University', 'Botswana', 'Education and Teaching', 'Senior']"}
+{"Calvin Martin": "['California State University Fresno', 'Tunisia', 'Natural Sciences', 'Freshman']"}
+{"Shirley Smith": "['California State University Fullerton', 'Poland', 'Health Sciences', 'Sophomore']"}
+{"Terry Watts": "['California State University Bakersfield', 'Tanzania', 'Health Sciences', 'Senior']"}
+{"Travis Anderson": "['California State University Monterey Bay', 'Cyprus', 'Sciences and Engineering', 'PhD']"}
+{"Dr. Tammy Howe": "['California State University Fullerton', 'Belize', 'Social Sciences', 'PhD']"}
+{"Brenda Collins": "['California State University Dominguez Hills', 'Finland', 'Health Sciences', 'Sophomore']"}
+{"Shannon Simpson": "['California State University Bakersfield', 'Oman', 'Education and Teaching', 'Junior']"}
+{"Megan Taylor": "['San José State University', 'Colombia', 'Law and Legal Studies', 'Junior']"}
+{"Erica Garcia": "['California Polytechnic State University Pomona', 'Finland', 'Sciences and Engineering', 'PhD']"}
+{"Stephanie Williams": "['San José State University', 'United Kingdom', 'Natural Sciences', 'Freshman']"}
+{"Melinda Campbell": "['California State University Dominguez Hills', 'Marshall Islands', 'Fine and Applied Arts', 'Senior']"}
+{"Ryan Williams": "['San José State University', 'Ghana', 'Sciences and Engineering', 'Sophomore']"}
+{"Lauren Walsh": "['California State University Sacramento', 'Malaysia', 'Health Sciences', 'Sophomore']"}
+{"Chris Mitchell": "['Sonoma State University', 'Monaco', 'Arts and Humanities', 'Junior']"}
+{"Kyle Harvey": "['California State University Fresno', 'Serbia', 'Natural Sciences', 'Sophomore']"}
+{"Michael Dean": "['California State University Northridge', 'Rwanda', 'Sciences and Engineering', 'Senior']"}
+{"Joseph Rodriguez": "['California State University Fresno', 'Greece', 'Communications and Media', 'Sophomore']"}
+{"Julie Rodriguez": "['California State University Los Angeles', 'Marshall Islands', 'Natural Sciences', 'PhD']"}
+{"Matthew Tanner": "['San Francisco State University', 'Togo', 'Natural Sciences', 'Senior']"}
+{"Andrea Richards": "['San Diego State University', 'Costa Rica', 'Education and Teaching', 'Freshman']"}
+{"Bridget Callahan": "['California State University Sacramento', 'Norway', 'Arts and Humanities', 'Masters']"}
+{"Diana Gonzales": "['San Diego State University', 'Turkey', 'Fine and Applied Arts', 'Masters']"}
+{"William Hale": "['San Francisco State University', 'Turkey', 'Fine and Applied Arts', 'Masters']"}
+{"Jonathan Meadows": "['California State University Fullerton', 'Solomon Islands', 'Law and Legal Studies', 'Masters']"}
+{"Kara Martinez": "['California State University Chico', 'Philippines', 'Fine and Applied Arts', 'Masters']"}
+{"Nicole Edwards": "['California State University Sacramento', 'Colombia', 'Communications and Media', 'Masters']"}
+{"Rebecca Stanley": "['California Polytechnic State University San Luis Obispo', 'Rwanda', 'Law and Legal Studies', 'Masters']"}
+{"Christopher Johnson": "['California State University Maritime Academy', 'Uganda', 'Arts and Humanities', 'Masters']"}
+{"Gavin White": "['California Polytechnic State University San Luis Obispo', 'Macedonia', 'Business and Economics', 'Masters']"}
+{"Richard Terrell": "['California State University Fresno', 'Angola', 'Natural Sciences', 'Masters']"}
+{"Ashley Kerr": "['California Polytechnic State University Pomona', 'Burkina', 'Education and Teaching', 'Masters']"}
+{"Yolanda Mitchell": "['California State University Stanislaus', 'Romania', 'Sciences and Engineering', 'Masters']"}
+{"James Powell": "['California State University Sacramento', 'Solomon Islands', 'Arts and Humanities', 'Masters']"}
+{"Louis Moore": "['California Polytechnic State University Humboldt', 'Somalia', 'Fine and Applied Arts', 'Masters']"}
+{"Sherri Martinez": "['California State University Bakersfield', 'Azerbaijan', 'Health Sciences', 'Masters']"}
+{"Jennifer Diaz": "['California State University Fresno', 'Trinidad & Tobago', 'Sciences and Engineering', 'Masters']"}
+{"Justin King": "['California State University Maritime Academy', 'Romania', 'Social Sciences', 'Masters']"}
+{"Diana Vargas": "['San Francisco State University', 'Paraguay', 'Business and Economics', 'Masters']"}
+{"Amy Irwin": "['California State University Fresno', 'Cameroon', 'Communications and Media', 'Masters']"}
