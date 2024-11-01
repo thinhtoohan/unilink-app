@@ -12,3 +12,15 @@ UniLink solves this issue by allowing students to create personalized profiles b
 * Study Partners: Find others in your major to collaborate on projects, share notes, and prepare for exams.
 * Language-Based Community: Connect with peers who speak your primary language for smoother communication and a stronger sense of belonging.
   
+## How to Run
+
+Install required libraries by running the following command:
+```
+pip install -r requirements.txt
+```
+
+Run the streamlit app via the following command:
+
+```
+streamlit run main.py
+```
